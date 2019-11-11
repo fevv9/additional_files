@@ -1,4 +1,10 @@
 #!/bin/bash
+#Author: Richard Kuo
+#Date:   Mon Nov 11 11:01:06 2019 +0300
+#    llvm hexagon build script "getsrc.sh" by Richard Kuo 2018
+#URL:  
+#    https://www.spinics.net/lists/linux-hexagon/msg01706.html
+#    https://www.spinics.net/lists/linux-hexagon/index.html#01706
 
 cmakecheck() {
   REQ=3.5
